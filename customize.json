@@ -3,8 +3,8 @@
   "name": "芳",
   "greetingText": "您有一份祝福请查收",
   "wishText": "🎈🎆🎇🧨✨🎉🎊🎁",
-  "imagePath": "img/FF2.png",
-  "text1": "今天是你的生日",
+  "imagePath": "img/FF3.png",
+  "text1": "今天是个特别的日子",
   "textInChatBox": "Happy birthday to you!! ",
   "sendButtonLabel": "Send",
   "text2": "祝你自信快乐坚强能力强",
@@ -17,7 +17,7 @@
   "bigTextPart1": "最",
   "bigTextPart2": "后",
   "wishHeading": "生日快乐呦，每天都开心!",
-  "outroText": "没了",
+  "outroText": "finish",
   "replayText": "点我再看一遍",
   "outroSmiley": ":)"
 }
